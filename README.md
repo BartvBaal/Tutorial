@@ -1,2 +1,2 @@
 # Tutorial
-This is a very helpfull tutorial explaining basic git concepts and commands.
+This is a very helpful tutorial explaining basic git concepts and commands.
