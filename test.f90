@@ -33,6 +33,5 @@ PROGRAM rolldice
   end do
   percentage = wincounter*100./maxi
   write(*,'(A,f6.2,A)') 'Player 1 won', percentage, '% of the rolls'
-  wincounter = 0
 
 END PROGRAM rolldice
